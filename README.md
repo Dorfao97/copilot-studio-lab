@@ -1,4 +1,4 @@
-# 🤖 Resumo – Criando Seu Primeiro Copiloto no Microsoft Copilot Studio
+# 🤖 Resumo – Criando Meu Primeiro Copiloto no Microsoft Copilot Studio
 
 Este repositório contém o resumo prático do laboratório "**Criando seu primeiro copiloto no Microsoft Copilot Studio**", realizado durante o bootcamp **Suzano - Python Developer** da [DIO](https://www.dio.me/).
 
